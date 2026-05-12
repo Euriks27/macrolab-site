@@ -1,0 +1,14 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+statsmodels
+flask
+fastapi
+uvicorn
+streamlit
+pytest
+python-bcb
+ipeadatapy
+requests
